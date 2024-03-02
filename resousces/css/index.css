@@ -1,0 +1,46 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+* {
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background-color:black ;
+  font-family: Verdana;
+  font-weight: normal;
+  text-align: center;
+  align-content: center;
+  margin: 35px, 15px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+footer {
+  text-align: right;
+  color: grey;
+}
